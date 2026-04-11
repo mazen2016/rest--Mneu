@@ -62,7 +62,10 @@ footer{
     padding:15px;
     margin-top:40px;
     color:rgb(27, 27, 27);
-    font-size: 2vw;
+    font-size:3vw;
+}
+.menu-item{
+    
 }
 @media (max-width: 1500px){
     .container{
